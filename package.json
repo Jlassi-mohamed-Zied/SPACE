@@ -1,0 +1,19 @@
+{
+  "name": "space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "sass":"sass --watch ./main.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jlassi-mohamed-Zied/SPACE.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jlassi-mohamed-Zied/SPACE/issues"
+  },
+  "homepage": "https://github.com/Jlassi-mohamed-Zied/SPACE#readme"
+}
